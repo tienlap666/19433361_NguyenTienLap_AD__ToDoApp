@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311339427362",
+    "firebase_url": "https://nguyentienlap-327bb-default-rtdb.firebaseio.com",
+    "project_id": "nguyentienlap-327bb",
+    "storage_bucket": "nguyentienlap-327bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311339427362:android:c106ed02739c8cdeaf0c7b",
+        "android_client_info": {
+          "package_name": "com.example.a19433361_nguyentienlap_ad_todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311339427362-ub30e1bihtjk74iiiiso3aqbge0hkvg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMZFr30u4aMIRVsymkjggz9cgLcc_07Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311339427362-ub30e1bihtjk74iiiiso3aqbge0hkvg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
